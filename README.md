@@ -7,7 +7,7 @@
 2. Write a menu driven program to perform the following on a matrix:
 a) Check whether the matrix is an Identity matrix or not
 b) Check whether the given matrix is square matrix or not
-c) Convert every even and odd number in matrix to its counterpart i.e. even to odd and odd to even
+c) Addition of two matrices.
 
 3. Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
 
