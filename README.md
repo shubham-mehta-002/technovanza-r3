@@ -24,13 +24,13 @@ c) Addition of two matrices.
   Explanation: The arrays we are merging are [1,2,3] and [2,5,6].
   The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.
 
-3. Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.
+2. Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.
 
     Input: n = 6, arr[] = {16,17,4,3,5,2}
     Output: 17 5 2
     Explanation: Note that there is nothing greater on the right side of 17, 5 and, 2.
 
-4. Given two sorted arrays of size n and m respectively, find their union. The Union of two arrays can be defined as the common and distinct elements in the two arrays. Return the elements in sorted order.
+3. Given two sorted arrays of size n and m respectively, find their union. The Union of two arrays can be defined as the common and distinct elements in the two arrays. Return the elements in sorted order.
 
    Input: 
   n = 5, arr1[] = {1, 2, 3, 4, 5}  
